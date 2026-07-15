@@ -16,6 +16,9 @@
 # graphify
 /graphify-out/
 
+#claude
+contexto.md
+
 # next.js
 /.next/
 /out/
