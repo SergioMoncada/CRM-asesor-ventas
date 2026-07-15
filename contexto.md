@@ -15,17 +15,3 @@ CI/CD Github Actions
 
 
 
-🏗️ Cómo va a funcionar
-Usuarios y permisos
-
-Tu mamá (admin): ve todos los clientes, todos los reportes, y la auditoría completa
-Compañeros (vendedores): cada uno ve solo sus propios clientes — privacidad garantizada por reglas de seguridad en la base de datos (RLS), no solo por la interfaz
-
-Gestión de clientes
-Cada cliente tiene: nombre, documento, teléfono, email, dirección, tipo de plan (teléfono/internet/celular/combo), estado (prospecto → en confirmación → con servicio / cancelado), y notas.
-Reportes
-Por mes: cuántos clientes atendió, cuántos se convirtieron en venta, comparación con el mes anterior, todo exportable a Excel o PDF con un clic.
-Auditoría
-Cada cambio en un cliente queda registrado: quién lo hizo, cuándo, y qué campo cambió — esto es clave porque manejan datos sensibles (documentos, teléfonos) y hay que cumplir con la ley de protección de datos colombiana (LGPD/Habeas Data).
-Dispositivos
-Funciona igual de bien en computador que en celular (responsive).
